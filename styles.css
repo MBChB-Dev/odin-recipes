@@ -1,0 +1,41 @@
+h1, h2, body {
+    font-family: Calibri, Arial, Helvetica, sans-serif
+}
+
+.title {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+body {
+    font-size: 18px;
+}
+
+.home-ul {
+    text-align: center;
+}
+
+.home-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.home-ul .home-list-item {
+    margin: 0;
+    padding: 0;
+  }
+
+  .img {
+    height: 500px;
+    width: auto;
+  }
