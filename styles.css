@@ -20,21 +20,6 @@ body {
     font-size: 18px;
 }
 
-.home-ul {
-    text-align: center;
-}
-
-.home-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
-.home-ul .home-list-item {
-    margin: 0;
-    padding: 0;
-  }
-
   .img {
     height: 500px;
     width: auto;
